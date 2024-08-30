@@ -14,3 +14,6 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 
 ## 📊 GitHub Stats
 ![Rianna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=radical)
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/rianna-lei-6b6664216/) • [Email](rxlei@calpoly.edu)
