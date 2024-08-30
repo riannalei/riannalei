@@ -10,15 +10,15 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 - **E-Commerce Shop**: A full-stack e-commerce application using Next.js, React.js, MongoDB, Tailwind CSS, and Styled Components. Check it out <a href="https://github.com/riannalei/E-Commerce-Shop.git">here</a>.
 </p>
 
-<h2 align="center">🛠 Tech Stack</h2>
-<p align ="center">
+<h2 align="center">🛠 Skills & Tech Stack</h2>
 
-- **Frontend:** React, Next.js, Tailwind CSS, Material UI
-- **Backend:** Node.js, Express, Spring Boot, MongoDB
-- **AI/ML:** OpenAI, TensorFlow, PyTorch
-- **Cloud & DevOps:** AWS, Firebase, Docker, Vercel
-- **Tools:** GitHub, VSCode, CI/CD
-  
+<p align="center">
+  <strong>Programming Languages:</strong> Python, JavaScript, Java, HTML/CSS, C, SQL, RISC-V Assembly<br>
+  <strong>Web Development:</strong> React, Next.js, HTML/CSS, JavaScript, Material-UI, Node.js, Express.js, Mongoose, REST API Design<br>
+  <strong>Frameworks & Libraries:</strong> OpenAI API, Stripe API, AWS (EC2, RDS, S3, Lambda), Firebase, Figma<br>
+  <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
+  <strong>Tools & Operating Systems:</strong> Linux, HTTP Servers, Git, GitHub, CI/CD Pipelines (Vercel, Render)<br>
+  <strong>Certificates:</strong> AWS Certified Cloud Practitioner – Foundational
 </p>
 
 <p align="center">
@@ -30,10 +30,16 @@ I am a Computer Science student at California Polytechnic University, San Luis O
   <img src="https://img.shields.io/badge/Backend-Express-black?style=flat-square&logo=express" alt="Express" />
   <img src="https://img.shields.io/badge/Backend-Spring%20Boot-green?style=flat-square&logo=spring-boot" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square&logo=postgresql" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/AI%2FML-TensorFlow-orange?style=flat-square&logo=tensorflow" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/AI%2FML-PyTorch-red?style=flat-square&logo=pytorch" alt="PyTorch" />
   <img src="https://img.shields.io/badge/DevOps-AWS-orange?style=flat-square&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/DevOps-Firebase-FFCA28?style=flat-square&logo=firebase" alt="Firebase" />
   <img src="https://img.shields.io/badge/Tools-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Tools-VSCode-blue?style=flat-square&logo=visual-studio-code" alt="VSCode" />
 </p>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
