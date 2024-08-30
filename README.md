@@ -44,9 +44,3 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=radical" alt="Rianna's GitHub Stats" />
 </p>
-
-<h2 align="center">📫 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rianna-lei-6b6664216/">LinkedIn</a> • <a href="mailto:rxlei@calpoly.edu">Email</a>
-</p>
