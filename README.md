@@ -13,7 +13,7 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 <h2 align="center">🛠 Skills & Tech Stack</h2>
 
 <p align="center">
-  <strong>Programming Languages:</strong> Python, JavaScript, Java, HTML/CSS, C, SQL, RISC-V Assembly<br>
+  <strong>Programming Languages:</strong> Python, JavaScript, Java, HTML/CSS, C, SQL, Assembly<br>
   <strong>Web Development:</strong> React, Next.js, HTML/CSS, JavaScript, Material-UI, Node.js, Express.js, Mongoose, REST API Design<br>
   <strong>Frameworks & Libraries:</strong> OpenAI API, Stripe API, AWS (EC2, RDS, S3, Lambda), Firebase, Figma<br>
   <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
@@ -27,7 +27,6 @@ I am a Computer Science student at California Polytechnic University, San Luis O
   <img src="https://img.shields.io/badge/Frontend-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" alt="Node.js" />
   <img src="https://img.shields.io/badge/Backend-Express-black?style=flat-square&logo=express" alt="Express" />
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-green?style=flat-square&logo=spring-boot" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql" alt="MySQL" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square&logo=postgresql" alt="PostgreSQL" />
