@@ -17,7 +17,7 @@ I am a Computer Science student at California Polytechnic University, San Luis O
   <strong>Frontend Development:</strong> React, Next.js, Tailwind CSS, Material UI, HTML/CSS, JavaScript<br>
   <strong>Backend Development:</strong> Node.js, Express.js, REST API Design<br>
   <strong>Frameworks & Libraries:</strong> OpenAI API, Stripe API, AWS (EC2, RDS, S3, Lambda), Firebase, Figma<br>
-  <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
+  <strong>Databases:</strong> MongoDB, MySQL<br>
   <strong>DevOps & Tools:</strong> Git, GitHub, Docker, Vercel, Linux, CI/CD Pipelines (Vercel, Render)<br>
 </p>
 
@@ -44,7 +44,6 @@ I am a Computer Science student at California Polytechnic University, San Luis O
   <!-- Icons for Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
   <!-- Icons for AI/ML -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
