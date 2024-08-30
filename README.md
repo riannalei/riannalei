@@ -14,29 +14,52 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 
 <p align="center">
   <strong>Programming Languages:</strong> Python, JavaScript, Java, HTML/CSS, C, SQL, Assembly<br>
-  <strong>Web Development:</strong> React, Next.js, HTML/CSS, JavaScript, Material-UI, Node.js, Express.js, Mongoose, REST API Design<br>
+  <strong>Frontend Development:</strong> React, Next.js, Tailwind CSS, Material UI, HTML/CSS, JavaScript<br>
+  <strong>Backend Development:</strong> Node.js, Express.js, REST API Design<br>
   <strong>Frameworks & Libraries:</strong> OpenAI API, Stripe API, AWS (EC2, RDS, S3, Lambda), Firebase, Figma<br>
   <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
-  <strong>Tools & Operating Systems:</strong> Linux, HTTP Servers, Git, GitHub, CI/CD Pipelines (Vercel, Render)<br>
+  <strong>DevOps & Tools:</strong> Git, GitHub, Docker, Vercel, Linux, CI/CD Pipelines (Vercel, Render)<br>
 </p>
 
 <p align="center">
-  <!-- Icons for the Tech Stack -->
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react" alt="React" />
-  <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=flat-square&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Frontend-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Backend-Express-black?style=flat-square&logo=express" alt="Express" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=flat-square&logo=postgresql" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AI%2FML-TensorFlow-orange?style=flat-square&logo=tensorflow" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/AI%2FML-PyTorch-red?style=flat-square&logo=pytorch" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/DevOps-AWS-orange?style=flat-square&logo=amazon-aws" alt="AWS" />
-  <img src="https://img.shields.io/badge/DevOps-Firebase-FFCA28?style=flat-square&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Tools-VSCode-blue?style=flat-square&logo=visual-studio-code" alt="VSCode" />
+  <!-- Icons for Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+
+  <!-- Icons for Frontend Development -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+
+  <!-- Icons for Backend Development -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+
+  <!-- Icons for Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+  <!-- Icons for AI/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+
+  <!-- Icons for DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
+
 
 
 <h2 align="center">📊 GitHub Stats</h2>
