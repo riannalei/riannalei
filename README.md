@@ -23,6 +23,11 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 
 <p align="center">
   <!-- Icons for the Tech Stack -->
+  - **Frontend:** React, Next.js, Tailwind CSS, Material UI
+- **Backend:** Node.js, Express, Spring Boot, MongoDB
+- **AI/ML:** OpenAI, TensorFlow, PyTorch
+- **Cloud & DevOps:** AWS, Firebase, Docker, Vercel
+- **Tools:** GitHub, VSCode, CI/CD
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react" alt="React" />
   <img src="https://img.shields.io/badge/Frontend-Next.js-black?style=flat-square&logo=next.js" alt="Next.js" />
   <img src="https://img.shields.io/badge/Frontend-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css" alt="Tailwind CSS" />
