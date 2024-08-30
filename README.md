@@ -18,7 +18,6 @@ I am a Computer Science student at California Polytechnic University, San Luis O
   <strong>Frameworks & Libraries:</strong> OpenAI API, Stripe API, AWS (EC2, RDS, S3, Lambda), Firebase, Figma<br>
   <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL<br>
   <strong>Tools & Operating Systems:</strong> Linux, HTTP Servers, Git, GitHub, CI/CD Pipelines (Vercel, Render)<br>
-  <strong>Certificates:</strong> AWS Certified Cloud Practitioner – Foundational
 </p>
 
 <p align="center">
