@@ -7,7 +7,7 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 <h2 align="center">🌱 What I'm Currently Working On</h2>
 
 <p align="center">
-- E-Commerce Shop: A full-stack e-commerce application using Next.js, React.js, MongoDB, Tailwind CSS, and Styled Components. Check it out <a href="https://github.com/riannalei/E-Commerce-Shop.git">here</a>.
+- Leaf & Carry: A full-stack e-commerce application using Next.js, React.js, MongoDB, Tailwind CSS, and Styled Components. Check it out <a href="https://github.com/riannalei/E-Commerce-Shop.git">here</a>.
 </p>
 <p align="center">
 - TaskStars: An AI-powered task management app with Google OAuth, real-time productivity tracking, and social leaderboards. Built with Next.js, React, Node.js, and MongoDB. Check it out <a href="https://github.com/taskStars/TaskStarsProd">here</a>.
