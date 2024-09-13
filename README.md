@@ -68,7 +68,6 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 </p>
 
 
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
