@@ -13,11 +13,11 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 <h2 align="center">🛠 Skills & Tech Stack</h2>
 
 <p align="center">
-  <strong>Programming Languages:</strong> Python, JavaScript, Java, HTML/CSS, C, SQL, Assembly<br>
-  <strong>Frontend Development:</strong> React, Next.js, Tailwind CSS, Material UI, HTML/CSS, JavaScript<br>
+  <strong>Programming Languages:</strong> Python, JavaScript, TypeScript, Java, HTML/CSS, C, SQL, Assembly<br>
+  <strong>Frontend Development:</strong> React, Next.js, Tailwind CSS, Material UI, shadcn-ui, HTML/CSS, JavaScript<br>
   <strong>Backend Development:</strong> Node.js, Express.js, REST API Design<br>
   <strong>Frameworks & Libraries:</strong> OpenAI API, Stripe API, AWS (EC2, RDS, S3, Lambda), Firebase, Figma<br>
-  <strong>Databases:</strong> MongoDB, MySQL<br>
+  <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL, Mongoose<br>
   <strong>DevOps & Tools:</strong> Git, GitHub, Docker, Vercel, Linux, CI/CD Pipelines (Vercel, Render)<br>
 </p>
 
@@ -25,6 +25,7 @@ I am a Computer Science student at California Polytechnic University, San Luis O
   <!-- Icons for Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -36,6 +37,7 @@ I am a Computer Science student at California Polytechnic University, San Luis O
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/shadcn--ui-2B2E4A?style=flat-square&logo=react&logoColor=white" alt="shadcn-ui" />
 
   <!-- Icons for Backend Development -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
@@ -44,6 +46,8 @@ I am a Computer Science student at California Polytechnic University, San Luis O
   <!-- Icons for Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Mongoose-800000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
 
   <!-- Icons for AI/ML -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -58,7 +62,6 @@ I am a Computer Science student at California Polytechnic University, San Luis O
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
-
 
 
 <h2 align="center">📊 GitHub Stats</h2>
