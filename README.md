@@ -6,14 +6,24 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 
 <h2 align="center">🛠 Skills & Tech Stack</h2>
 
-<p align="center">
-  <strong>Programming Languages:</strong> Python, JavaScript, TypeScript, Java, HTML/CSS, C, SQL, RISC-V Assembly<br>
-  <strong>Frontend Development:</strong> React, Next.js, Tailwind CSS, Material UI, shadcn-ui, Three.js, HTML/CSS, JavaScript<br>
-  <strong>Backend Development:</strong> Node.js, Express.js, REST API Design<br>
-  <strong>Frameworks & Libraries:</strong> OpenAI API, Stripe API, AWS (EC2, RDS, S3, Lambda), Firebase, Figma, Passport.js, Prisma, Kinde, Google OAuth, NextAuth, Webhooks<br>
-  <strong>Databases:</strong> MongoDB, MySQL, PostgreSQL, Mongoose<br>
-  <strong>DevOps & Tools:</strong> Git, GitHub, Docker, Vercel, Linux, CI/CD Pipelines (Vercel, Render, Heroku)<br>
-</p>
+### 🛠️ Programming Languages
+- **Python**, **JavaScript**, **TypeScript**, **Java**, **HTML/CSS**, **C**, **SQL**, **RISC-V Assembly**
+
+### 🎨 Frontend Development
+- **React**, **Next.js**, **Tailwind CSS**, **Material UI**, **shadcn-ui**, **Three.js**
+
+### 🏗 Backend Development
+- **Node.js**, **Express.js**, **REST API Design**
+
+### 📚 Frameworks & Libraries
+- **OpenAI API**, **Stripe API**, **AWS (EC2, RDS, S3, Lambda)**, **Firebase**, **Figma**, **Passport.js**, **Prisma**, **Kinde**, **Google OAuth**, **NextAuth**, **Webhooks**
+
+### 🗄️ Databases
+- **MongoDB**, **MySQL**, **PostgreSQL**, **Mongoose**
+
+### 🚀 DevOps & Tools
+- **Git**, **GitHub**, **Docker**, **Vercel**, **Linux**, **CI/CD Pipelines (Vercel, Render, Heroku)**
+
 
 <p align="center">
   <!-- Icons for Programming Languages -->
