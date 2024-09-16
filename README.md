@@ -1,30 +1,17 @@
 <h1 align="center">🌟 Hi there, I'm Rianna Lei 🌟</h1>
 
+<h2 align="center" style="font-size: 1.5em;">👩‍💻 Junior Computer Science Student @ California Polytechnic University, San Luis Obispo 👩‍💻</h2>
+
 <p align="center">
-I am a Computer Science student at California Polytechnic University, San Luis Obispo, passionate about full-stack development and AI/ML technologies. I love building innovative applications and exploring new technologies.
+I'm a dedicated and curious Computer Science student at Cal Poly, San Luis Obispo, with a passion for full-stack development and artificial intelligence. I thrive on the challenge of building innovative applications that solve real-world problems and push the boundaries of technology. Whether it's crafting dynamic front-end interfaces or developing robust back-end systems, I love exploring new tech stacks and bringing ideas to life through code.
 </p>
 
+<p align="center">
+Beyond the keyboard, I am inspired by the world around me—whether that's exploring new places, discovering cozy coffee spots, or immersing myself in nature. My love for art and music also fuels my creativity, often leading to unique side projects where technology meets creativity. I'm always eager to learn, collaborate, and create something meaningful.
+</p>
+
+
 <h2 align="center">🛠 Skills & Tech Stack</h2>
-
-### 🛠️ Programming Languages
-- **Python**, **JavaScript**, **TypeScript**, **Java**, **HTML/CSS**, **C**, **SQL**, **RISC-V Assembly**
-
-### 🎨 Frontend Development
-- **React**, **Next.js**, **Tailwind CSS**, **Material UI**, **shadcn-ui**, **Three.js**
-
-### 🏗 Backend Development
-- **Node.js**, **Express.js**, **REST API Design**
-
-### 📚 Frameworks & Libraries
-- **OpenAI API**, **Stripe API**, **AWS (EC2, RDS, S3, Lambda)**, **Firebase**, **Figma**, **Passport.js**, **Prisma**, **Kinde**, **Google OAuth**, **NextAuth**, **Webhooks**
-
-### 🗄️ Databases
-- **MongoDB**, **MySQL**, **PostgreSQL**, **Mongoose**
-
-### 🚀 DevOps & Tools
-- **Git**, **GitHub**, **Docker**, **Vercel**, **Linux**, **CI/CD Pipelines (Vercel, Render, Heroku)**
-
-
 <p align="center">
   <!-- Icons for Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
@@ -77,3 +64,8 @@ I am a Computer Science student at California Polytechnic University, San Luis O
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=radical" alt="Rianna's GitHub Stats" />
 </p>
+
+### 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/rianna-lei-6b6664216/)
+- [Email](rxlei@calpoly.edu)
+
