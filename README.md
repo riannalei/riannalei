@@ -7,7 +7,7 @@ I'm passionate about full-stack development and AI technologies, always eager to
 </p>
 
 <p align="center">
-Outside of coding, I love exploring new places, finding cozy coffee spots, and being in nature. I'm also inspired by art and music, which often spark creative side projects where technology meets creativity.
+Beyond coding, I like exploring new places, cozy coffee spots, and nature. I'm also interested in art and music and enjoy working on creative side projects where tech meets creativity. I’m always eager to learn, collaborate, and create something meaningful.
 </p>
 
 <h2 align="center">🛠 Skills & Tech Stack</h2>
@@ -58,6 +58,7 @@ Outside of coding, I love exploring new places, finding cozy coffee spots, and b
 </p>
 
 
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -66,5 +67,4 @@ Outside of coding, I love exploring new places, finding cozy coffee spots, and b
 
 ### 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/rianna-lei-6b6664216/)
-- [Email](rxlei@calpoly.edu)
-
+- [Email](mailto:rxlei@calpoly.edu)
