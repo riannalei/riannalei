@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Hi there, I'm Rianna Lei 🌟</h1>
 
-<h2 align="center" style="font-size: 1.5em;">👩‍💻 Junior Computer Science Student @ California Polytechnic University, San Luis Obispo 👩‍💻</h2>
+<h2 align="center" style="font-size: 1.5em;">👩‍💻 Junior Computer Science Student @ Cal Poly, San Luis Obispo 👩‍💻</h2>
 
 <p align="center">
 I'm passionate about full-stack development and AI technologies, always eager to build innovative applications and explore new technologies to solve real-world problems. I enjoy working on dynamic front-end experiences and robust back-end systems that bring ideas to life.
