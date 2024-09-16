@@ -4,12 +4,6 @@
 I am a Computer Science student at California Polytechnic University, San Luis Obispo, passionate about full-stack development and AI/ML technologies. I love building innovative applications and exploring new technologies.
 </p>
 
-<h2 align="center">🌱 What I'm Currently Working On</h2>
-
-<p align="center">
-- TaskStars: An AI-powered task management app with Google OAuth, real-time productivity tracking, and social leaderboards. Built with Next.js, React, Node.js, and MongoDB. Check it out <a href="https://github.com/taskStars/TaskStarsProd">here</a>.
-</p>
-
 <h2 align="center">🛠 Skills & Tech Stack</h2>
 
 <p align="center">
