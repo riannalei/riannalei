@@ -3,13 +3,12 @@
 <h2 align="center" style="font-size: 1.5em;">👩‍💻 Junior Computer Science Student @ California Polytechnic University, San Luis Obispo 👩‍💻</h2>
 
 <p align="center">
-I'm a dedicated and curious Computer Science student at Cal Poly, San Luis Obispo, with a passion for full-stack development and artificial intelligence. I thrive on the challenge of building innovative applications that solve real-world problems and push the boundaries of technology. Whether it's crafting dynamic front-end interfaces or developing robust back-end systems, I love exploring new tech stacks and bringing ideas to life through code.
+I'm passionate about full-stack development and AI technologies, always eager to build innovative applications and explore new technologies to solve real-world problems. I enjoy working on dynamic front-end experiences and robust back-end systems that bring ideas to life.
 </p>
 
 <p align="center">
-Beyond the keyboard, I am inspired by the world around me—whether that's exploring new places, discovering cozy coffee spots, or immersing myself in nature. My love for art and music also fuels my creativity, often leading to unique side projects where technology meets creativity. I'm always eager to learn, collaborate, and create something meaningful.
+Outside of coding, I love exploring new places, finding cozy coffee spots, and being in nature. I'm also inspired by art and music, which often spark creative side projects where technology meets creativity.
 </p>
-
 
 <h2 align="center">🛠 Skills & Tech Stack</h2>
 <p align="center">
