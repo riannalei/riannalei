@@ -73,7 +73,3 @@ Beyond coding, I like exploring new places, cozy coffee spots, and nature. I'm a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=radical" alt="Rianna's GitHub Stats" />
 </p>
-
-### 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/rianna-lei-6b6664216/)
-- [Email](mailto:rxlei@calpoly.edu)
