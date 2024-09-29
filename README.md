@@ -16,8 +16,8 @@
   <li>Always eager to learn and collaborate 🤝</li>
 </ul>
 
-<h2>🛠 Skills & Tech Stack</h2>
-<!-- Skills Section -->
+<h2 align="center">🛠 Skills & Tech Stack</h2>
+<p align="center">
   <!-- Icons for Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -56,7 +56,6 @@
   <img src="https://img.shields.io/badge/Prisma-1B222D?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white" alt="Passport.js" />
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextAuth" />
-
 
   <!-- Icons for DevOps & Tools -->
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
