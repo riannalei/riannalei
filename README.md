@@ -12,7 +12,6 @@
   <li>Exploring new places and nature 🌿</li>
   <li>Finding cozy coffee spots ☕</li>
   <li>Creative side projects where tech meets art 🎨</li>
-  <li>Music lover and occasional guitarist 🎶</li>
   <li>Always eager to learn and collaborate 🤝</li>
 </ul>
 
