@@ -73,5 +73,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=catppuccin_mocha" alt="Rianna's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=catppuccin_mocha" alt="Rianna's GitHub Stats" style="width: 60%;"/>
 </p>
+
