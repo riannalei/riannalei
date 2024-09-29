@@ -17,7 +17,7 @@
 </ul>
 
 <h2 align="center">🛠 Skills & Tech Stack</h2>
-<p align="center">
+<p >
   <!-- Icons for Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
