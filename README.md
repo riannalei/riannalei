@@ -1,5 +1,5 @@
 <h1>🌟 Hi there, I'm Rianna Lei 🌟</h1>
-<h2>👩‍💻 Junior Computer Science Student @ Cal Poly, San Luis Obispo 👩‍💻</h2>
+<h2>👩‍💻 Computer Science @ Cal Poly, San Luis Obispo 👩‍💻</h2>
 
 <!-- About Me Section -->
 <p>
