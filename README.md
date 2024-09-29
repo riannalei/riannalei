@@ -12,7 +12,6 @@
   <li>Exploring new places and nature 🌿</li>
   <li>Finding cozy coffee spots ☕</li>
   <li>Creative side projects where tech meets art 🎨</li>
-  <li>Music lover and occasional guitarist 🎶</li>
   <li>Always eager to learn and collaborate 🤝</li>
 </ul>
 
@@ -69,6 +68,7 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
 </p>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
