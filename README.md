@@ -68,6 +68,6 @@ Beyond coding, I like exploring new places, cozy coffee spots, and nature. I'm a
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=riannalei&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riannalei&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 
 </p>
