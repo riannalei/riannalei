@@ -1,13 +1,20 @@
 <h1 align="center">🌟 Hi there, I'm Rianna Lei 🌟</h1>
-<h2 align="center" style="font-size: 1.5em;">👩‍💻 Junior Computer Science Student @ Cal Poly, San Luis Obispo 👩‍💻</h2>
+<h2 align="center">👩‍💻 Junior Computer Science Student @ Cal Poly, San Luis Obispo 👩‍💻</h2>
 
+<!-- About Me Section -->
 <p align="center">
-I'm passionate about full-stack development and AI technologies, always eager to build innovative applications and explore new technologies to solve real-world problems. I enjoy working on dynamic front-end experiences and robust back-end systems that bring ideas to life.
+  I'm passionate about full-stack development and AI technologies. I love building innovative applications and exploring new technologies to solve real-world problems. I focus on creating dynamic front-end experiences and robust back-end systems that bring ideas to life.
 </p>
 
-<p align="center">
-Beyond coding, I like exploring new places, cozy coffee spots, and nature. I'm also interested in art and music and enjoy working on creative side projects where tech meets creativity. I’m always eager to learn, collaborate, and create something meaningful.
-</p>
+<!-- Hobbies & Interests Section -->
+<h3 align="center">🌱 Outside of Coding</h3>
+<ul>
+  <li>Exploring new places and nature 🌿</li>
+  <li>Finding cozy coffee spots ☕</li>
+  <li>Creative side projects where tech meets art 🎨</li>
+  <li>Music lover and occasional guitarist 🎶</li>
+  <li>Always eager to learn and collaborate 🤝</li>
+</ul>
 
 <h2 align="center">🛠 Skills & Tech Stack</h2>
 <p align="center">
@@ -62,8 +69,6 @@ Beyond coding, I like exploring new places, cozy coffee spots, and nature. I'm a
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
 </p>
-
-
 
 <h2 align="center">📊 GitHub Stats</h2>
 
