@@ -3,7 +3,7 @@
 
 <!-- About Me Section -->   
 <p>
-  I'm passionate about full-stack development and AI technologies. I love building innovative applications and exploring new technologies to solve real-world problems. I focus on creating dynamic front-end experiences and robust back-end systems that bring ideas to life.  
+  I'm passionate about full-stack development and love building innovative applications that solve real-world problems. I focus on creating dynamic front-end experiences and seamless integration with robust back-end systems to bring ideas to life.   
 </p>
 
 
