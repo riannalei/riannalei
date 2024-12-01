@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hi there, I'm Rianna Lei 🌟</h1>
 <h2 align="center" >👩‍💻 Computer Science @ Cal Poly, San Luis Obispo 👩‍💻</h2>
 
-<!-- About Me Section -->   
+<!-- About Me Section --> 
 <p>
   I'm passionate about full-stack development and love building innovative applications that solve real-world problems. I focus on creating dynamic front-end experiences and seamless integration with robust back-end systems to bring ideas to life.   
 </p>
