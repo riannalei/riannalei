@@ -70,8 +70,8 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
 </p>
 
-  <!--<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=catppuccin_mocha" alt="Rianna's GitHub Stats" />
-</p> -->
+</p> 
