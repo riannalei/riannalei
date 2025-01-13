@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hi there, I'm Rianna Lei 🌟</h1>
+<h1 align="center">🌟 Hi there, I'm Rianna Lei</h1>
 <h2 align="center" >👩‍💻 Computer Science @ Cal Poly, San Luis Obispo 👩‍💻</h2>
 
 <!-- About Me Section --> 
