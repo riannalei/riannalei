@@ -1,12 +1,12 @@
 <h1 align="center">🍵 Hi there, I'm Rianna Lei 🍵</h1>
-<h2 align="center" >Computer Science @ Cal Poly, San Luis Obispo</h2>
+<h2 align="center" >💻 Computer Science @ Cal Poly, San Luis Obispo 💻</h2>
 
 <!-- About Me Section --> 
 <p>
   I'm passionate about full-stack development and love building innovative applications that solve real-world problems. I focus on creating dynamic front-end experiences and seamless integration with robust back-end systems to bring ideas to life!   
 </p>
 
-<h2 align="center"> 💻 Skills & Tech Stack</h2>
+<h2 align="center"> 🛠 Skills & Tech Stack</h2>
 <p >
   <!-- Icons for Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
