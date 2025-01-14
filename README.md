@@ -1,12 +1,12 @@
-<h1 align="center">🌟 Hi there, I'm Rianna Lei</h1>
-<h2 align="center" >👩‍💻 Computer Science @ Cal Poly, San Luis Obispo 👩‍💻</h2>
+<h1 align="center">🍵 Hi there, I'm Rianna Lei 🍵</h1>
+<h2 align="center" >Computer Science @ Cal Poly, San Luis Obispo</h2>
 
 <!-- About Me Section --> 
 <p>
   I'm passionate about full-stack development and love building innovative applications that solve real-world problems. I focus on creating dynamic front-end experiences and seamless integration with robust back-end systems to bring ideas to life!   
 </p>
 
-<h2 align="center">🛠 Skills & Tech Stack</h2>
+<h2 align="center"> 💻 Skills & Tech Stack</h2>
 <p >
   <!-- Icons for Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
@@ -68,7 +68,7 @@
 
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🌟 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=catppuccin_mocha" alt="Rianna's GitHub Stats" />
