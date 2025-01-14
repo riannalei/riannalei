@@ -6,16 +6,6 @@
   I'm passionate about full-stack development and love building innovative applications that solve real-world problems. I focus on creating dynamic front-end experiences and seamless integration with robust back-end systems to bring ideas to life!   
 </p>
 
-
-<!-- Hobbies & Interests Section -->
-<h3>🌱 Outside of Coding</h3>
-<ul>
-  <li>Exploring new places and nature 🌿</li>
-  <li>Finding cozy coffee spots ☕</li>
-  <li>Creative side projects where tech meets art 🎨</li>
-  <li>Always eager to learn and collaborate 🤝</li>
-</ul>
-
 <h2 align="center">🛠 Skills & Tech Stack</h2>
 <p >
   <!-- Icons for Programming Languages -->
@@ -68,6 +58,14 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
+
+<!-- Icons for AL/ML -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  <img src="https://img.shields.io/badge/Data_Training-FFA500?style=flat-square&logo=python&logoColor=white" alt="Data Training" />
+
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
