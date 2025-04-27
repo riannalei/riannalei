@@ -1,5 +1,6 @@
-<h1>Hi there, I'm Rianna Lei  🍵 </h1>
-<h2>Computer Science @ Cal Poly, San Luis Obispo  💻 </h2>
+<p><strong>🍵 Hi there, I'm Rianna Lei</strong></p>
+<p><strong>💻 Computer Science @ Cal Poly, San Luis Obispo</strong></p>
+
 
 <h2>🛠 Skills & Tech Stack</h2>
 
