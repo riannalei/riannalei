@@ -54,5 +54,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=catppuccin_mocha" alt="Rianna's GitHub Stats" width="300px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=catppuccin_mocha" alt="Rianna's GitHub Stats" width="400px" />
 </p>
