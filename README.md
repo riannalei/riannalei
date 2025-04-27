@@ -1,12 +1,12 @@
-<h1>Hi there, I'm Rianna Lei 🍵 </h1>
-<h2>Computer Science @ Cal Poly, San Luis Obispo 💻 </h2>
+<h1>Hi there, I'm Rianna Lei  🍵 </h1>
+<h2>Computer Science @ Cal Poly, San Luis Obispo  💻 </h2>
 
 <!-- About Me -->
 <p>
   I like to code things up :)
 </p>
 
-<h2>🛠 Skills & Tech Stack</h2>
+<h2>Skills & Tech Stack  🛠 </h2>
 
 <!-- Skills Badges -->
 <p>
