@@ -1,11 +1,6 @@
 <h1>Hi there, I'm Rianna Lei  🍵 </h1>
 <h2>Computer Science @ Cal Poly, San Luis Obispo  💻 </h2>
 
-<!-- About Me -->
-<p>
-  I like to code things up :)
-</p>
-
 <h2>Skills & Tech Stack  🛠 </h2>
 
 <!-- Skills Badges -->
@@ -51,6 +46,4 @@
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="NextAuth" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=catppuccin_mocha" alt="Rianna's GitHub Stats" width="400px" />
-</p>
+
