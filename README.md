@@ -1,9 +1,6 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Hi%20there,%20I'm%20Rianna%20Lei%20🍵-20232A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=555555&color=41A334" alt="Greeting Banner" />
-</p>
-
-<h4 align="center">Computer Science @ Cal Poly, San Luis Obispo | SWE Intern @ Richemont</h4>
-
+<div align="center">
+  <img src="https://github.com/riannalei/riannalei/raw/2563017146d5a56bf0ba5d9e14663dc7933a6739/github-header-banner%20(1).png" alt="Hi There, I'm Rianna Banner" />
+</div>
 ### 🛠 Skills & Tech Stack
 
 #### Languages & Core
