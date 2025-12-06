@@ -4,7 +4,8 @@
 
 <h4 align="center">Computer Science @ Cal Poly, San Luis Obispo | SWE Intern @ Richemont</h4>
 
-### Skills & Tech Stack
+### 🛠 Skills & Tech Stack
+
 #### Languages & Core
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -46,16 +47,28 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-#### Tools & Cloud / DevOps
+#### Tools & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" alt="GitLab" />
+  <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" alt="BitBucket" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2A9D8F?style=flat-square&logo=travis&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman" alt="Postman" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains" alt="IntelliJ IDEA" />
+</p>
+
+#### Cloud & Hardware
+<p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2A9D8F?style=flat-square&logo=travis&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino" alt="Arduino" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" alt="Google Colab" />
 </p>
+
