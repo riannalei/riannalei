@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/riannalei/riannalei/raw/2563017146d5a56bf0ba5d9e14663dc7933a6739/github-header-banner%20(1).png" alt="Hi There, I'm Rianna Banner" width="500" />
+  <img src="https://github.com/riannalei/riannalei/raw/2563017146d5a56bf0ba5d9e14663dc7933a6739/github-header-banner%20(1).png" alt="Hi There, I'm Rianna Banner" width="700" />
 </div>
 
 ### 🛠 Skills & Tech Stack
