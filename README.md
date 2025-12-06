@@ -1,6 +1,6 @@
 # Hi there, I'm Rianna Lei 🍵
 
-<h4 align="center">Computer Science @ Cal Poly, San Luis Obispo</h4>
+<h4 align="center">Computer Science @ Cal Poly, San Luis Obispo | SWE Intern @ Richemont</h4>
 
 ## 🛠 Skills & Tech Stack
 #### Languages & Core
