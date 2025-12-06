@@ -1,4 +1,4 @@
-# Hi there, I'm Rianna Lei
+# Hi there, I'm Rianna Lei 🍵
 
 <h4 align="center">Computer Science @ Cal Poly, San Luis Obispo</h4>
 
