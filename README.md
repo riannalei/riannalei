@@ -4,7 +4,7 @@
 
 <h4 align="center">Computer Science @ Cal Poly, San Luis Obispo | SWE Intern @ Richemont</h4>
 
-## 🛠 Skills & Tech Stack
+### Skills & Tech Stack
 #### Languages & Core
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
