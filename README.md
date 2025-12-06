@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-tea-party.gif?1531849430" width="30"/>
-  <h1>Hi there, I'm Rianna Lei 🍵</h1>
+  <img src="https://img.shields.io/badge/Hi%20there,%20I'm%20Rianna%20Lei%20🍵-20232A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=555555&color=41A334" alt="Greeting Banner" />
 </p>
 
 <h4 align="center">Computer Science @ Cal Poly, San Luis Obispo | SWE Intern @ Richemont</h4>
