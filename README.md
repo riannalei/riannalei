@@ -1,4 +1,7 @@
-# Hi there, I'm Rianna Lei 🍵
+<p align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-tea-party.gif?1531849430" width="30"/>
+  <h1>Hi there, I'm Rianna Lei 🍵</h1>
+</p>
 
 <h4 align="center">Computer Science @ Cal Poly, San Luis Obispo | SWE Intern @ Richemont</h4>
 
