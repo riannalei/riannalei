@@ -2,6 +2,18 @@
   <img src="https://github.com/riannalei/riannalei/raw/main/github-header-banner%20(2).png" alt="Hi There, I'm Rianna Banner" width="600" />
 </div>
 
+<div align="left">
+  <img src="https://github.com/riannalei/riannalei/raw/main/github-header-banner%20(2).png" alt="Hi There, I'm Rianna Banner" width="600" />
+</div>
+
+```javascript
+const developer = {
+  name: "Rianna Lei",
+  location: "Cal Poly SLO",
+  passion: "Building innovative solutions",
+  status: "Available for opportunities"
+};
+
 ### Skills & Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -49,7 +61,3 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" alt="Google Colab" />
 </p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=transparent&title_color=768c75&text_color=555&icon_color=768c75&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riannalei&layout=compact&theme=transparent&title_color=768c75&text_color=555&hide_border=true" height="150" alt="languages graph" />
-</div>
