@@ -2,15 +2,6 @@
   <img src="https://github.com/riannalei/riannalei/raw/main/github-header-banner%20(2).png" alt="Hi There, I'm Rianna Banner" width="600" />
 </div>
 
-```javascript
-const developer = {
-  name: "Rianna Lei",
-  location: "Cal Poly SLO",
-  passion: "Building innovative solutions",
-  status: "Available for opportunities"
-};
-```
-
 ### Skills & Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
