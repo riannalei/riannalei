@@ -2,7 +2,7 @@
   <img src="https://github.com/riannalei/riannalei/raw/2563017146d5a56bf0ba5d9e14663dc7933a6739/github-header-banner%20(1).png" alt="Hi There, I'm Rianna Banner" width="600" />
 </div>
 
-### 🛠 Skills & Tech Stack
+### Skills & Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
