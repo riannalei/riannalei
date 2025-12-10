@@ -48,3 +48,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" alt="Google Colab" />
 </p>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=riannalei&show_icons=true&theme=transparent&title_color=768c75&text_color=555&icon_color=768c75&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riannalei&layout=compact&theme=transparent&title_color=768c75&text_color=555&hide_border=true" height="150" alt="languages graph" />
+</div>
